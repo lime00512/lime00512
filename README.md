@@ -27,3 +27,5 @@ Here are some ideas to get you started:
         <img src="https://api.vaunt.dev/v1/github/entities/simonmazzaroth/contributions?format=svg" width="350" title="Includes public contributions"/>
     </a>
 </p>
+
+[![Vaunt Community](https://api.vaunt.dev/v1/github/entities/simonmazzaroth/badges/community)](https://community.vaunt.dev/board/simonmazzaroth)
